@@ -50,6 +50,21 @@ Data Understanding-Data Preparation-Clustering-Classification-Ensemble Classifie
   - Deep Neural Network (DNN) defining a search space for hyper-parameter tuning using Keras library
   - Regularizations: Dropout, Early stopping, Momentum, L2
   
+## Modulo3 Time Series Analysis
+
+### Time series Approximations and Transformation
+  - Off-Set Translation and Amplitude Scaling
+  - SAX and PAA (Approximating clustering)
+
+### Clustering
+  - TimeSeriesKmeans (Shape-based algorithm with different distance metrics: Euclidean, DTW and SoftDTW)
+
+### Motif and Anomalies Discovery
+
+### Time series Classification
+  -KNN (algorithm used with Shapelets by tslearn with the following distance metrics: Euclidean, DTWSakoe-Chiba and DTW Itakura)
+      - Univariate
+      - Multivariate
   
   
   
