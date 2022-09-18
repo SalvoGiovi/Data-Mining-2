@@ -62,9 +62,36 @@ Data Understanding-Data Preparation-Clustering-Classification-Ensemble Classifie
 ### Motif and Anomalies Discovery
 
 ### Time series Classification
-  -KNN (algorithm used with Shapelets by tslearn with the following distance metrics: Euclidean, DTWSakoe-Chiba and DTW Itakura)
-      - Univariate
-      - Multivariate
+  - KNN (algorithm used with the following distance metrics: Euclidean, DTWSakoe-Chiba and DTW Itakura)
+  - Shapelet classification with KNN
+  - Structural-based classification
+    - Univariate
+      - 1-NN
+      - CIF
+      - ROCKET
+      - Mini Rocket       
+    - Multivariate
+      - 1-NN
+      - ROCKET
+      - Mini Rocket 
+
+## Modulo4 Sequential Pattern Mining & Advanced Clustering
+
+### Sequential Pattern Mining
+  - SAX trasformation of Database to find top 5 frequent pattern with min_support of 20%
+
+### Advanced Clustering
+  - X-means (distance based)
+  - OPTICS (density based)
+  
+### Transactional Clustering
+  - K-modes
+
+## Modulo5 Explainability
+
+### Local Algorithms
+  - SHAP 
+  - LIME 
   
   
   
