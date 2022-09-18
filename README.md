@@ -32,23 +32,23 @@ Data Understanding-Data Preparation-Clustering-Classification-Ensemble Classifie
 ## Modulo2 Advanced Classification methods
 
 ### Advanced Classifiers
-    - Naive-Bayes
-    - Logistic Regressor
-    - Linear Regressor
-    - Support Vector Machine (SVM)
+  - Naive-Bayes
+  - Logistic Regressor
+  - Linear Regressor
+  - Support Vector Machine (SVM)
     
 ### Ensamble Classifiers
-    - Random Forest
-    - Bagging (BootstrapAGGregatING)
-    - Gradient Boost Machine (GBM)
-    - XGBoost Machine (XGBM)
-    - Histogram Gradient Boost Machine (HGBM)
-    - Light Gradient Boost Machine (LGBM)
+  - Random Forest
+  - Bagging (BootstrapAGGregatING)
+  - Gradient Boost Machine (GBM)
+  - XGBoost Machine (XGBM)
+  - Histogram Gradient Boost Machine (HGBM)
+  - Light Gradient Boost Machine (LGBM)
  
 ### Neural Networks
-    - Multi Layer Perceptron Classifier (MLPC) using sklearn library
-    - Deep Neural Network (DNN) defining a search space for hyper-parameter tuning using Keras library
-    - Regularizations: Dropout, Early stopping, Momentum, L2
+  - Multi Layer Perceptron Classifier (MLPC) using sklearn library
+  - Deep Neural Network (DNN) defining a search space for hyper-parameter tuning using Keras library
+  - Regularizations: Dropout, Early stopping, Momentum, L2
   
   
   
